@@ -31,7 +31,7 @@ twitter_username: jekyllrb
 github: [metadata]
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 repository: tomaszzelezny/tomaszzelezny.github.io
 plugins:
   - jekyll-feed
