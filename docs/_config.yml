@@ -35,6 +35,7 @@ theme: minimal-mistakes-jekyll
 repository: tomaszzelezny/tomaszzelezny.github.io
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
